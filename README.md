@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devanaclimgo
 - 👀 I’m interested in 3d webdesign and develoment
 - 🌱 I’m currently learning front end development
-- 📫 How to reach me: insta: @anaclimgo
+- 📫 How to reach me: linkedin: linkedin.com/in/ana-clara-gomes-48b83b224/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: my favourite hobby is learning languages
