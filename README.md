@@ -4,7 +4,7 @@
 
 <div>  
   <div align="center">
-    <img align="right" height="450" width="440" src="https://private-user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjY5NDQyMTgsIm5iZiI6MTcyNjk0MzkxOCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjQzNzEtOWQwZmQwYzQtNWM3Zi00MTIyLWI4ODQtNjRhMWUxNjg1ZDJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTIxVDE4MzgzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQwNzRjZmFmYTZkYzJiNDg3ZjdmMjJjMTc2MDkzMTc0ZDE2NGNhYjViYTdlZWY2YThjYzE1MGQ1NzdjZjk1NjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.8WSfVCrluSQJBea5Mj3OlcWbpTdeRAFV9x11EmdyrQM">
+    <img align="right" height="170" width="160" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
   </div>
 </div>
 
