@@ -23,12 +23,10 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanaclimgo&layout=compact&langs_count=8&theme=midnight-purple"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div align="center">
   <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ana-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Ana-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
-![snake gif](https://github.com/devanaclimgo/devanaclimgo/blob/output/github-contribution-grid-snake.svg)
