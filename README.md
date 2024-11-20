@@ -1,6 +1,6 @@
 ## Seja bem vindo(a) ao meu Github! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-![Ana introduction](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=200&color=964ADB&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1500&height=140&lines=Oi+oi;Meu+nome+é+Ana%2C+amo+tecnologia+e+aprender+novas+linguagens+&#10084;")
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=500&color=964ADB&center=true&vCenter=true&width=1700&height=140&lines=Hi+there!;My+name+is+Ana%2C+I+like+technology+and+learning+new+languages+&#10084;)](https://git.io/typing-svg)
 
 <div>  
   <div align="center">
