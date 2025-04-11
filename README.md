@@ -3,14 +3,6 @@
 
 > “Code is poetry… but with semicolons.” — Me, after 3 espresso shots
 
-# 🚀 My Journey
-From **Marketing** grad to **self-taught dev**, I fell in love with building immersive digital experiences. Currently:
-- 🔍 **Volunteer Frontend Dev** (Learned so much!)
-- 🎓 **Ada + Santander Scholar** (2025)
-- 🍪 **Cookie enthusiast** (unrelated but critical)
-
-Why code? Because I thrive where **creativity meets logic**—whether it’s crafting pixel-perfect UIs or creating something entirely different.
-
 ## 💡 What I Bring to the Table
 ### Frontend Sorcery
 - **React.js** (Vite, Next.js) + **TypeScript**
@@ -19,8 +11,8 @@ Why code? Because I thrive where **creativity meets logic**—whether it’s cra
 - **Mobile-First** & **SEO-Friendly** builds
 
 ### Backend Dabbling
-- **Ruby on Rails** (in progress!)
-- **Docker** for containerization
+- **Ruby on Rails**, **SQL**
+- **Docker**, **Sentry**
 
 ### Design Hybrid
 - **Figma-to-Code** conversions
@@ -68,3 +60,4 @@ Why code? Because I thrive where **creativity meets logic**—whether it’s cra
 
 #### 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-clara-gomes-48b83b224/)
+
