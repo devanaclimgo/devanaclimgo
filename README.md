@@ -1,5 +1,5 @@
 # 👋 Hey there, I'm Ana! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-**Frontend Developer** with a designer’s eye 🎨 | **Tech Magician** turning Figma into flawless code ✨ | **Forever Learner** diving into Ruby & Full-Stack 🌱
+**Fullstack Developer** with a designer’s eye 🎨 | **Tech Magician** turning Figma into flawless code ✨ | **Forever Learner** diving into Ruby & Full-Stack 🌱
 
 > “Code is poetry… but with semicolons.” — Me, after 3 espresso shots
 
