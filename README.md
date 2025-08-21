@@ -60,3 +60,6 @@
 
 #### 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-clara-gomes-48b83b224/)
+<a href="mailto:anaclimgo@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%F23334?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
