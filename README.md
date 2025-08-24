@@ -1,45 +1,66 @@
-# 👋 Hey there, I'm Ana! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-**Fullstack Developer** with a designer’s eye 🎨 | **Tech Magician** turning Figma into flawless code ✨ | **Forever Learner** diving into Ruby & Full-Stack 🌱
+# 👋 Hey there, I'm Ana Gomes! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+
+### A Brazilian Fullstack Developer passionate about building sleek interfaces and scalable systems. 
+
+- 🌍 Fluent in English & native in Portuguese (pt-BR)
+-🎓 Degree in Advertising & Communications (UI/UX background)
+- 💼 8 months of Agile project experience at PipocaÁgil:
+  - Full team: P.O, SM, QA, Designer, Frontend, Backend, PM
+  - Hands-on with Scrum ceremonies: Dailys, Plannings, Retros, Planning Poker, GitHub versioning, weekly documentation
 
 > “Code is poetry… but with semicolons.” — Me, after 3 espresso shots
 
-## 💡 What I Bring to the Table
-### Frontend Sorcery
-- **React.js** (Vite, Next.js) + **TypeScript**
-- **3D Magic:** Three.js, React Three Fiber, GSAP
-- **CSS Artistry:** Tailwind, Sass, Framer Motion
-- **Mobile-First** & **SEO-Friendly** builds
+## 🚀 Featured Projects
+### 1️⃣ Éden – Multi-Tenant ERP (Freelance)
+- Frontend Developer responsible for UI/UX design and implementation
+- Built with **React.js 19, TypeScript, TailwindCSS v4, Vite, Radix UI, Axios**
+- Features:
+  - Multi-tenant architecture (isolated store dashboards)
+  - Charts with Recharts
+  - Advanced tables (sorting, filtering, pagination) with TanStack Table
+  - Dark/light theme, notifications, responsive design
+- ![🔗 Repository](https://github.com/warlleyrocha/eden)
 
-### Backend Dabbling
-- **Ruby on Rails**, **SQL**
-- **Docker**, **Sentry**
+### 2️⃣ InsuCheck – Agile Simulation Project
+- Mobile app for diabetes treatment management
+- Centralizes user health data & provides visual dashboards
+- Tech stack: **React Native, Expo, Redux, NestJS, Prisma, PostgreSQL, Express, Swagger**
+- Role: Frontend Developer – built dashboards, data visualizations, and state management
+- ![🔗 Repository](https://github.com/Ameglebm/AppPipocaAgil)
 
-### Design Hybrid
-- **Figma-to-Code** conversions
-- **UI/UX principles** from my Advertising degree
+### 3️⃣ ImobiFácil – Real Estate Platform (In Progress)
+- Management system with Google OAuth 2.0 and RBAC
+- Features: client/corretor registration, real-time chat with Socket.IO, property management
+- Tech stack: **Node.js, TypeScript, NestJS, Prisma, PostgreSQL, Redis, Docker, Kubernetes, Swagger**
+- Role: Frontend Developer – authentication flow and UI components
 
+## 📚 Courses & Certifications
+- JavaScript ES6 Complete
+- React.js Complete
+- TailwindCSS
+- TypeScript
+- Node.js
+- SQL & Databases (MySQL, PostgreSQL, SQLite, MS SQL Server)
+- Next.js
+- Object-Oriented Programming, SOLID & Clean Code Principles
+- REST API Development, JWT Authentication & CRUD
+- HTML & CSS (Beginner to Advanced)
 
-## 🛠 Tech Stack
-### 🚀 Main Focus
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+## 🛠 Tech Arsenal
+### 🌐 Frontend
+React.js · Next.js · TypeScript · Redux · React Native · Expo · TailwindCSS · Sass · Bootstrap · Styled Components · Three.js · GSAP · Vue.js · Svelte · Radix UI · React Query · React Hook Form · Chart.js · Webpack · Vite
 
-## 💻 Operating System
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624) ![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
+### ⚙️ Backend
+Node.js · Express.js · Fastify · Nest.js · Ruby on Rails · SQL · PostgreSQL · MySQL · SQLite · MongoDB · Redis · Firebase · Appwrite · DynamoDB
 
-### Frontend
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
- ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+### ☁️ Cloud & DevOps
+Docker · Kubernetes · AWS (S3, EC2, DynamoDB) · Vercel · Netlify · Heroku · Railway · Render · GitHub Actions · GitLab CI/CD · Nginx
 
-### Backend
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+### 🎨 Design & Productivity
+Figma · Canva · Blender · Dribbble · Webflow · Obsidian · Notion · Jira · ClickUp · Trello
 
-### Tools & Others
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+### 🧰 Tools
+Git · GitHub · GitLab · Postman · Swagger · Prettier · ESLint · Cursor AI · Copilot · ChatGPT · Gemini · DeepSeek
 
 ## 📊 GitHub Stats
 <div align="center" width="90cm">
@@ -60,6 +81,5 @@
 
 #### 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-clara-gomes-48b83b224/)
-<a href="mailto:anaclimgo@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%F23334?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:"anaclimgo@gmail.com")
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/450854803996803082)
