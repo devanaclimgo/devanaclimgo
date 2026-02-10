@@ -62,22 +62,6 @@ Figma · Canva · Blender · Dribbble · Webflow · Obsidian · Notion · Jira �
 ### 🧰 Tools
 Git · GitHub · GitLab · Postman · Swagger · Prettier · ESLint · Cursor AI · Copilot · ChatGPT · Gemini · DeepSeek
 
-## 📊 GitHub Stats
-<div align="center" width="90cm">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=devanaclimgo&show_icons=true&theme=midnight-purple"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=devanaclimgo&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=devanaclimgo&show_icons=true" />
-</picture>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanaclimgo&layout=donut&langs_count=8&theme=midnight-purple&hide=HTML,CSS"/>
-</div>
-
 
 #### 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-clara-gomes-48b83b224/)
