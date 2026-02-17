@@ -1,69 +1,81 @@
-# 👋 Hey there, I'm Ana Gomes! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+# 👋 Hi, I'm Ana Gomes
 
-### A Brazilian Fullstack Developer passionate about building sleek interfaces and scalable systems. 
+Backend-focused Full-Stack Engineer specialized in scalable SaaS systems, backend architecture, and AI-driven infrastructure.
 
-- 🌍 Fluent in English & native in Portuguese (pt-BR)
--🎓 Degree in Advertising & Communications (UI/UX background)
-- 💼 8 months of Agile project experience at PipocaÁgil:
-  - Full team: P.O, SM, QA, Designer, Frontend, Backend, PM
-  - Hands-on with Scrum ceremonies: Dailys, Plannings, Retros, Planning Poker, GitHub versioning, weekly documentation
+I design and build production-grade web platforms using Ruby on Rails, PostgreSQL, and cloud infrastructure — with a strong emphasis on performance, system boundaries, and long-term maintainability.
 
-> “Code is poetry… but with semicolons.” — Me, after 3 espresso shots
+---
 
-## 🚀 Featured Projects
-### 1️⃣ Éden – Multi-Tenant ERP (Freelance)
-- Frontend Developer responsible for UI/UX design and implementation
-- Built with **React.js 19, TypeScript, TailwindCSS v4, Vite, Radix UI, Axios**
-- Features:
-  - Multi-tenant architecture (isolated store dashboards)
-  - Charts with Recharts
-  - Advanced tables (sorting, filtering, pagination) with TanStack Table
-  - Dark/light theme, notifications, responsive design
-- ![🔗 Repository](https://github.com/warlleyrocha/eden)
+## 🧠 Engineering Focus
 
-### 2️⃣ InsuCheck – Agile Simulation Project
-- Mobile app for diabetes treatment management
-- Centralizes user health data & provides visual dashboards
-- Tech stack: **React Native, Expo, Redux, NestJS, Prisma, PostgreSQL, Express, Swagger**
-- Role: Frontend Developer – built dashboards, data visualizations, and state management
-- ![🔗 Repository](https://github.com/Ameglebm/AppPipocaAgil)
+- Scalable backend architecture (multi-tenant systems, RBAC, secure data isolation)
+- PostgreSQL performance & query optimization
+- API design & versioning strategies
+- Background job processing & async workflows (Sidekiq patterns)
+- Caching strategies (Redis, HTTP caching)
+- AI systems optimization & cost-efficient LLM integrations
+- Observability & production reliability
 
-### 3️⃣ ImobiFácil – Real Estate Platform (In Progress)
-- Management system with Google OAuth 2.0 and RBAC
-- Features: client/corretor registration, real-time chat with Socket.IO, property management
-- Tech stack: **Node.js, TypeScript, NestJS, Prisma, PostgreSQL, Redis, Docker, Kubernetes, Swagger**
-- Role: Frontend Developer – authentication flow and UI components
+I prioritize architectural clarity over quick fixes and build systems that balance product velocity with technical sustainability.
 
-## 📚 Courses & Certifications
-- JavaScript ES6 Complete
-- React.js Complete
-- TailwindCSS
-- TypeScript
-- Node.js
-- SQL & Databases (MySQL, PostgreSQL, SQLite, MS SQL Server)
-- Next.js
-- Object-Oriented Programming, SOLID & Clean Code Principles
-- REST API Development, JWT Authentication & CRUD
-- HTML & CSS (Beginner to Advanced)
+---
 
-## 🛠 Tech Arsenal
-### 🌐 Frontend
-React.js · Next.js · TypeScript · Redux · React Native · Expo · TailwindCSS · Sass · Bootstrap · Styled Components · Three.js · GSAP · Vue.js · Svelte · Radix UI · React Query · React Hook Form · Chart.js · Webpack · Vite
+## 🚀 Selected Work
 
-### ⚙️ Backend
-Node.js · Express.js · Fastify · Nest.js · Ruby on Rails · SQL · PostgreSQL · MySQL · SQLite · MongoDB · Redis · Firebase · Appwrite · DynamoDB
+### AI-Integrated SaaS Platform (Ongoing)
 
-### ☁️ Cloud & DevOps
-Docker · Kubernetes · AWS (S3, EC2, DynamoDB) · Vercel · Netlify · Heroku · Railway · Render · GitHub Actions · GitLab CI/CD · Nginx
+Building a canvas-based SaaS platform with real-time AI workflows.
 
-### 🎨 Design & Productivity
-Figma · Canva · Blender · Dribbble · Webflow · Obsidian · Notion · Jira · ClickUp · Trello
+Key engineering contributions:
+- Designed secure multi-tenant backend architecture with role hierarchies
+- Reduced API calls by 90–95% through local-first persistence & caching strategies
+- Engineered AI token optimization layer cutting infrastructure costs by 70–85%
+- Structured PostgreSQL data models for scalability and performance
+- Implemented unified AI orchestration layer (OpenAI, Claude, Gemini, Whisper)
+- Improved observability with structured logging and error monitoring
 
-### 🧰 Tools
-Git · GitHub · GitLab · Postman · Swagger · Prettier · ESLint · Cursor AI · Copilot · ChatGPT · Gemini · DeepSeek
+Core stack:
+Ruby on Rails · PostgreSQL · Redis · AWS · Docker · React · TypeScript
 
+---
 
-#### 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-clara-gomes-48b83b224/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anaclimgo@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/450854803996803082)
+### Freelance Systems Development
+
+Designed and delivered full-stack web applications with backend performance focus.
+
+Highlights:
+- Built RESTful APIs with optimized PostgreSQL/MySQL queries
+- Improved database performance via indexing and query refactoring
+- Implemented CI/CD pipelines with Docker
+- Applied clean architecture principles to MVPs
+- Structured authentication & authorization systems
+
+---
+
+## 🛠 Core Stack
+
+### Backend
+Ruby on Rails · PostgreSQL · Redis · REST APIs · Sidekiq · Node.js
+
+### Cloud & Infrastructure
+AWS (EC2, S3) · Docker · CI/CD · GitHub Actions · Linux
+
+### Frontend (when needed)
+React · TypeScript · Next.js · Tailwind CSS
+
+---
+
+## 📚 Currently Deepening
+
+- Advanced PostgreSQL internals
+- Distributed systems fundamentals
+- System design patterns
+- Caching & performance strategies
+- Backend observability
+
+---
+
+## 📫 Connect
+
+LinkedIn: https://www.linkedin.com/in/ana-clara-gomes-48b83b224/  
+Email: anaclimgo@gmail.com
