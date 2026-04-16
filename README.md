@@ -1,22 +1,24 @@
 # 👋 Hi, I'm Ana Gomes
 
-Backend-focused Full-Stack Engineer specialized in scalable SaaS systems, backend architecture, and AI-driven infrastructure.
+Full-Stack Engineer specialized in building scalable SaaS applications, combining strong backend architecture with high-performance, user-focused frontend systems.
 
-I design and build production-grade web platforms using Ruby on Rails, PostgreSQL, and cloud infrastructure — with a strong emphasis on performance, system boundaries, and long-term maintainability.
+I design and build production-grade web platforms using Ruby on Rails, PostgreSQL, and modern frontend frameworks like React and Next.js — with a strong emphasis on performance, system design, and real-world product impact.
 
 ---
 
 ## 🧠 Engineering Focus
 
+- Full-stack system design (frontend + backend integration)
 - Scalable backend architecture (multi-tenant systems, RBAC, secure data isolation)
+- Frontend performance & UX optimization
 - PostgreSQL performance & query optimization
-- API design & versioning strategies
-- Background job processing & async workflows (Sidekiq patterns)
+- API design & data flow optimization
+- Background job processing & async workflows (Sidekiq)
 - Caching strategies (Redis, HTTP caching)
 - AI systems optimization & cost-efficient LLM integrations
 - Observability & production reliability
 
-I prioritize architectural clarity over quick fixes and build systems that balance product velocity with technical sustainability.
+I focus on building systems that are not only technically sound, but also intuitive, efficient, and aligned with real user needs.
 
 ---
 
@@ -33,6 +35,7 @@ Key engineering contributions:
 - Structured PostgreSQL data models for scalability and performance
 - Implemented unified AI orchestration layer (OpenAI, Claude, Gemini, Whisper)
 - Improved observability with structured logging and error monitoring
+- Built responsive, high-performance frontend interfaces with React & TypeScript
 
 Core stack:
 Ruby on Rails · PostgreSQL · Redis · AWS · Docker · React · TypeScript
@@ -41,37 +44,37 @@ Ruby on Rails · PostgreSQL · Redis · AWS · Docker · React · TypeScript
 
 ### Freelance Systems Development
 
-Designed and delivered full-stack web applications with backend performance focus.
+Designed and delivered full-stack web applications with a focus on performance, usability, and clean architecture.
 
 Highlights:
-- Built RESTful APIs with optimized PostgreSQL/MySQL queries
+- Built RESTful APIs with optimized database queries
+- Developed responsive frontend interfaces with React and TypeScript
 - Improved database performance via indexing and query refactoring
 - Implemented CI/CD pipelines with Docker
-- Applied clean architecture principles to MVPs
 - Structured authentication & authorization systems
 
 ---
 
 ## 🛠 Core Stack
 
+### Frontend
+React · Next.js · TypeScript · Tailwind CSS
+
 ### Backend
-Ruby on Rails · PostgreSQL · Redis · REST APIs · Sidekiq · Node.js
+Ruby on Rails · PostgreSQL · Redis · REST APIs · Sidekiq
 
 ### Cloud & Infrastructure
 AWS (EC2, S3) · Docker · CI/CD · GitHub Actions · Linux
-
-### Frontend (when needed)
-React · TypeScript · Next.js · Tailwind CSS
 
 ---
 
 ## 📚 Currently Deepening
 
-- Advanced PostgreSQL internals
-- Distributed systems fundamentals
-- System design patterns
-- Caching & performance strategies
-- Backend observability
+- System design & scalability patterns
+- Performance optimization (frontend & backend)
+- AI systems & LLM orchestration
+- PostgreSQL internals & query planning
+- Observability & production reliability
 
 ---
 
