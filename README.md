@@ -2,7 +2,6 @@
 
 Frontend-Focused Software Engineer based in Brazil, building modern SaaS products, AI-powered applications, and scalable web experiences.
 
----
 
 ## 🚀 Tech Stack
 
@@ -15,7 +14,6 @@ Ruby on Rails · Node.js · PostgreSQL · REST APIs
 ### Tools & Cloud
 Docker · Supabase · GitHub Actions · Sentry
 
----
 
 ## ✨ Highlights
 
@@ -24,13 +22,11 @@ Docker · Supabase · GitHub Actions · Sentry
 - Refactored complex React architectures (3k+ line components) improving scalability and maintainability
 - Built scalable AI-integrated SaaS platforms with real-time workflows
 
----
 
 ## 🧠 Interests
 
 Frontend Architecture · Product Engineering · AI-Powered UX · Performance Optimization · Scalable SaaS
 
-⸻
 
 ## 📫 Connect
 
