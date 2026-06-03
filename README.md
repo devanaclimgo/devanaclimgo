@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ana Gomes
 
-Frontend-Focused Software Engineer based in Brazil, building modern SaaS products, AI-powered applications, and scalable web experiences.
+Software Engineer based in Brazil, building modern SaaS products, AI-powered applications, and scalable web experiences.
 
 
 ## 🚀 Tech Stack
