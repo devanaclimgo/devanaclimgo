@@ -31,4 +31,5 @@ Frontend Architecture · Product Engineering · AI-Powered UX · Performance Opt
 ## 📫 Connect
 
 LinkedIn: linkedin.com/in/ana-gomes-dev
+<br>
 Email: anaclimgo@gmail.com
